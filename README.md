@@ -27,6 +27,7 @@ OpenGL operations, drawLine, drawCircle, animation
 
 ///////////////////////////////////////////
 
+
 // A brief instruction on how to use your program:
 // 1) Compile this source code file or run the precompiled file
 // 2) Click on the white screen two times as two different points.
